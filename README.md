@@ -9,7 +9,6 @@ Bukti:
 
 ![alt text](image.png)
 
-
 ### Client 1 
 
 bukti:
@@ -48,6 +47,24 @@ Bukti:
 
 ![alt text](image-6.png)
 
+### Client 1
+
 ![alt text](image-7.png)
 
+### Client 2
+
 ![alt text](image-8.png)
+
+## 2.3 Small Changes by Adding Some Information to Client
+
+Saya menambah keterangan bahwa koneksi terjadi di Figo's Computer dan juga agar semua Client dapat melihat _address_ Client lain. 
+
+Bukti:
+
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
