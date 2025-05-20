@@ -33,3 +33,21 @@ bukti:
 bukti:
 
 ![alt text](image-4.png)
+
+##  2.2: Modifying the websocket port 
+
+Jika port berbeda (Antar client dan server) maka akan error. Hal ini terjadi karena Client tidak menemukan target Server dengan port yang sesuai.
+
+Bukti:
+
+![alt text](image-5.png)
+
+Namun jika kedua port (di client dan sever) sama, semisal keduanya diubah ke port 8080, maka akan berhasil dan broadcast akan berjalan seperti biasanya.
+
+Bukti:
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
